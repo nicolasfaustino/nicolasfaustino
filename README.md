@@ -24,17 +24,10 @@
     <br/>
 </div>
                 
-<div align="center">                
-        <table align='right'>
-          <row>
-            <td>
-              <img id="tableStats" height='172' src='https://github-readme-stats.vercel.app/api?username=nicolasfaustino&show_icons=true&count_private=true&locale=pt-br&theme=dark'>
-            </td>
-          </row>
-        </table>
-</div>
+## GitHub Stats
 
-<div align="center">   
-        <h1> 🎫 Commits </h1>
-        ![snake gif](https://github.com/nicolasfaustino/nicolasfaustino/blob/output/github-contribution-grid-snake.svg)
-</div>
+[![nicolasfaustino's GitHub Stats](https://github-stats-heyyczer.vercel.app/api?username=nicolasfaustino&show_icons=true&theme=github_dark&locale=pt-br)](https://github.com/nicolasfaustino)
+[![nicolasfaustino's Top Langs](https://github-stats-heyyczer.vercel.app/api/top-langs/?username=nicolasfaustino&theme=github_dark&locale=pt-br&layout=compact)](https://github.com/nicolasfaustino)
+
+## Commits 
+![Snake animation](https://github.com/nicolasfaustino/nicolasfaustino/blob/output/dist/github-contribution-grid-snake-dark.svg)
