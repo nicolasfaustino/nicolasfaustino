@@ -30,4 +30,4 @@
 [![nicolasfaustino's Top Langs](https://github-stats-heyyczer.vercel.app/api/top-langs/?username=nicolasfaustino&theme=github_dark&locale=pt-br&layout=compact)](https://github.com/nicolasfaustino)
 
 ## Commits 
-![Snake animation](https://github.com/nicolasfaustino/nicolasfaustino/blob/output/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/nicolasfaustino/nicolasfaustino/blob/output/github-contribution-grid-snake.svg)
