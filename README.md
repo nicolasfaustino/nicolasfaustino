@@ -24,12 +24,17 @@
     <br/>
 </div>
                 
-<table align='right'>
-  <row>
-    <td>
-      <img id="tableStats" height='172' src='https://github-readme-stats.vercel.app/api?username=nicolasfaustino&show_icons=true&count_private=true&locale=pt-br&theme=dark'>
-    </td>
-  </row>
-</table>
-  
-<h1> 🎫 Commits </h1>
+<div align="center">                
+        <table align='right'>
+          <row>
+            <td>
+              <img id="tableStats" height='172' src='https://github-readme-stats.vercel.app/api?username=nicolasfaustino&show_icons=true&count_private=true&locale=pt-br&theme=dark'>
+            </td>
+          </row>
+        </table>
+</div>
+
+<div align="center">   
+        <h1> 🎫 Commits </h1>
+        ![snake gif](https://github.com/nicolasfaustino/nicolasfaustino/blob/output/github-contribution-grid-snake.svg)
+</div>
