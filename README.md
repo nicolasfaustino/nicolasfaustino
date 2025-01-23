@@ -22,4 +22,4 @@
 [![nicolasfaustino's Top Langs](https://github-stats-heyyczer.vercel.app/api/top-langs/?username=nicolasfaustino&theme=github_dark&locale=pt-br&layout=compact)](https://github.com/nicolasfaustino)
 
 ## Commits 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/nicolasfaustino/nicolasfaustino/blob/output/github-snake-dark.svg)
