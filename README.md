@@ -14,12 +14,11 @@
 - 📚 Sistema de Informação - UP
 - 💼 Tenho 4 anos de experiência em programação.
 
-![Skill Badges](https://skillicons.dev/icons?i=js,html,css,lua,mysql,react)
+![Skill Badges](https://skillicons.dev/icons?i=js,html,css,lua,mysql,ts,react,tailwind,c,git,github,bootstrap,nodejs,figma,ps)
                 
 ## GitHub Stats
-
-[![nicolasfaustino's GitHub Stats](https://github-stats-heyyczer.vercel.app/api?username=nicolasfaustino&show_icons=true&theme=github_dark&locale=pt-br)](https://github.com/nicolasfaustino)
-[![nicolasfaustino's Top Langs](https://github-stats-heyyczer.vercel.app/api/top-langs/?username=nicolasfaustino&theme=github_dark&locale=pt-br&layout=compact)](https://github.com/nicolasfaustino)
+[![nicolasfaustino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasfaustino&show_icons=true&theme=github_dark&locale=pt-br)](https://github.com/nicolasfaustino)
+[![nicolasfaustino's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfaustino&theme=github_dark&locale=pt-br&layout=compact)](https://github.com/nicolasfaustino)
 
 ## Commits 
 ![snake gif](https://github.com/nicolasfaustino/nicolasfaustino/blob/output/github-snake-dark.svg)
